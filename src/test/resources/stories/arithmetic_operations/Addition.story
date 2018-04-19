@@ -1,5 +1,5 @@
 Meta:
-@expression addition
+@addition
 
 Narrative:
 As a calculator user

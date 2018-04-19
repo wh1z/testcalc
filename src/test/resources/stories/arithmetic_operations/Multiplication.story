@@ -1,5 +1,5 @@
 Meta:
-@expression
+@multiplication
 
 Narrative:
 As a calculator user

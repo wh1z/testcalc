@@ -1,5 +1,5 @@
 Meta:
-@operation division
+@division
 
 Narrative:
 As a calculator user
